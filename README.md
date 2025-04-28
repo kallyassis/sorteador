@@ -1,5 +1,5 @@
 ### Dev Sorteio 🎲
-![projeto simples de sorteio de números, feito com HTML, CSS e JavaScript.]
+![projeto simples de sorteio de números, feito com HTML, CSS e JavaScript.](https://raw.githubusercontent.com/kallyassis/sorteador/8404931b55e03859a5c35b5670169c5e1040d264/img/Captura%20de%20tela.png)
 
 
 ### Funcionalidades ###
