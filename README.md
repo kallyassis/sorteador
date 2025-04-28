@@ -1,5 +1,6 @@
 ### Dev Sorteio 🎲
-projeto simples de sorteio de números, feitos com HTML, CSS e JavaScript.
+![projeto simples de sorteio de números, feito com HTML, CSS e JavaScript.]
+
 
 ### Funcionalidades ###
 
