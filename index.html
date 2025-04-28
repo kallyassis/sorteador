@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!-- Google fontes -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap" rel="stylesheet">
+    <!-- Fim Google fontes -->
+    <link rel="stylesheet" href="./style.css"><!-- CSS -->
+    <title>Sorteador</title>
+</head>
+
+<body>
+    <div class="container">
+        <img src="./img/dice-25637_640.png" alt="">
+        <h1>Dev Sorteio</h1>
+        <p class="paragraph" >Clique no botão para sortear um número entre 0 e 500</p>
+
+        <ul class="resultado-lista"></ul>
+        <div class="campos">
+            <input class="input-min" type="number" >
+            <input class="input-max" type="number" >
+        </div>
+        <button class="btn-sortear" onclick="sortear()">Sortear</button>
+
+    </div>
+</body>
+<script src="./script.js"></script>
+</html>
